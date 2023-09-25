@@ -12,3 +12,9 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 ## Activity 3
 ![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/f1d00e60-7185-438b-b4f3-15d172c6ce84)
 ![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/8d64cf17-b62a-45bd-a124-fe324af0a532)
+
+## Activity 4
+![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/0cf8123a-83ef-4714-8a49-631b10636c38)
+![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/3542f9dc-bb6b-43a6-a504-81cb0379684b)
+![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/83a64221-866f-49f4-b49e-f01b4edc9773)
+![image](https://github.com/alextanned/ECE444-F2023-Lab1/assets/74106760/f8f7571c-9377-404e-9c5e-8cc42eddd0d5)
